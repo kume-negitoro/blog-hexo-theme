@@ -2,6 +2,7 @@
 menu:
   Home: /
   Archives: /archives
+  Profile: /profile
   Twitter: https://twitter.com/kume_negitoro
   Github: https://github.com/kume-negitoro
 rss: /atom.xml
